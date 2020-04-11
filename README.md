@@ -1,4 +1,4 @@
-# intro-to-ml-tensorflow
+# intro-to-ml-Pytorch
 
 Projects and exercises for the Udacity Intro to Machine Learning with TensorFlow course.
 
